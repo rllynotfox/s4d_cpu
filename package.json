@@ -4,7 +4,7 @@
   "description": "A powerful library for interacting with the Discord API",
   "main": "./index.js",
   "files": [
-    "index"
+    "index.js"
   ],
   "engines": {
     "node": ">=16.6.0",
