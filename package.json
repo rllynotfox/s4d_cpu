@@ -1,0 +1,14 @@
+{
+  "name": "s4d_cpu",
+  "version": "1.0.0",
+  "description": "A powerful library for interacting with the Discord API",
+  "main": "./index.js",
+  "files": [
+    "src",
+    "typings"
+  ],
+  "engines": {
+    "node": ">=16.6.0",
+    "npm": ">=7.0.0"
+  }
+}
